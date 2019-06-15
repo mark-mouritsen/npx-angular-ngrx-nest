@@ -1,0 +1,24 @@
+{
+  "npmScope": "npx-angular-ngrx-nest",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "npx-angular-ngrx-nest-e2e": {
+      "tags": []
+    },
+    "npx-angular-ngrx-nest": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interface": {
+      "tags": []
+    }
+  }
+}
